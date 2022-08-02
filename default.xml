@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="https://github.com/thomas-coding/" name="origin"/>
+	<remote fetch="." name="origin"/>
 
 	<project name="script" path="script" remote="origin" revision="master" upstream="master"/>
 	<project name="drawio" path="drawio" remote="origin" revision="master" upstream="master"/>
