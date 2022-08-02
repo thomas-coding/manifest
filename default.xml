@@ -2,6 +2,6 @@
 <manifest>
 	<remote fetch="https://github.com/thomas-coding/" name="origin"/>
 
-	<project name="script" path="script" remote="origin" revision="master" upstream="master"/>
+	<project name="script" path="script" remote="origin" revision="main" upstream="main"/>
 	<project name="drawio" path="drawio" remote="origin" revision="master" upstream="master"/>
 </manifest>
