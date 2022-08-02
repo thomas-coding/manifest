@@ -4,4 +4,5 @@
 
 	<project name="script" path="script" remote="origin" revision="main" upstream="main"/>
 	<project name="drawio" path="drawio" remote="origin" revision="master" upstream="master"/>
+	<project name="FreeRTOS" path="FreeRTOS" remote="origin" revision="main" upstream="main"/>
 </manifest>
