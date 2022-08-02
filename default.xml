@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/thomas-coding/" name="origin"/>
+
+	<project name="vmix" path="script" remote="origin" revision="main" upstream="main"/>
+	<project name="amix" path="drawio" remote="origin" revision="main" upstream="main"/>
+</manifest>
