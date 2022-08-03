@@ -6,4 +6,6 @@
 	<project name="pico-sdk" path="pico-sdk" remote="origin" revision="master" upstream="master"/>
 	<project name="picoprobe" path="picoprobe" remote="origin" revision="master" upstream="master"/>
 	<project name="pico-bootrom" path="pico-bootrom" remote="origin" revision="master" upstream="master"/>
+	<project name="openocd" path="openocd" remote="origin" revision="rp2040" upstream="rp2040"/>
+	<project name="qemu" path="qemu" remote="origin" revision="master" upstream="master"/>
 </manifest>
