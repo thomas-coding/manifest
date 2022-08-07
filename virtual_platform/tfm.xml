@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<include name="qemu/base.xml" />
+	<include name="virtual_platform/base.xml" />
 
 	<project name="trusted-firmware-m" path="trusted-firmware-m" remote="origin" revision="release/1.5.x" upstream="release/1.5.x"/>
 </manifest>

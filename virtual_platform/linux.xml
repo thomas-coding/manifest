@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<include name="qemu/base.xml" />
+	<include name="virtual_platform/base.xml" />
 
 	<project name="arm-trusted-firmware" path="arm-trusted-firmware" remote="origin" revision="master" upstream="master"/>
 	<project name="u-boot" path="u-boot" remote="origin" revision="master" upstream="master"/>
