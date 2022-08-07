@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="qemu/base.xml" />
+
+	<project name="arm-trusted-firmware" path="arm-trusted-firmware" remote="origin" revision="master" upstream="master"/>
+	<project name="u-boot" path="u-boot" remote="origin" revision="master" upstream="master"/>
+	<project name="buildroot" path="buildroot" remote="origin" revision="master" upstream="master"/>
+	<project name="linux" path="linux" remote="origin" revision="master" upstream="master"/>
+</manifest>

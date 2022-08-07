@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/thomas-coding/" name="origin"/>
+
+	<project name="qemu" path="qemu" remote="origin" revision="master" upstream="master"/>
+</manifest>

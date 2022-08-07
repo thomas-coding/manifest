@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="qemu/base.xml" />
+
+	<project name="baremetal" path="baremetal" remote="origin" revision="main" upstream="main"/>
+</manifest>
