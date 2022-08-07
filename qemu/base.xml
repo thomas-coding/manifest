@@ -3,4 +3,5 @@
 	<remote fetch="https://github.com/thomas-coding/" name="origin"/>
 
 	<project name="qemu" path="qemu" remote="origin" revision="master" upstream="master"/>
+	<project name="build" path="build" remote="origin" revision="master" upstream="master"/>
 </manifest>
