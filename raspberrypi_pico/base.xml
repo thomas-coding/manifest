@@ -5,6 +5,6 @@
 	<project name="pico-examples" path="pico-examples" remote="origin" revision="master" upstream="master"/>
 	<project name="pico-sdk" path="pico-sdk" remote="origin" revision="master" upstream="master"/>
 	<project name="pico-bootrom" path="pico-bootrom" remote="origin" revision="master" upstream="master"/>
-	<project name="openocd" path="openocd" remote="origin" revision="rp2040" upstream="rp2040"/>
+	<project name="pi_openocd" path="openocd" remote="origin" revision="rp2040" upstream="rp2040"/>
 	<project name="build" path="build" remote="origin" revision="master" upstream="master"/>
 </manifest>
