@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="linux_study/base.xml" />
+
+	<project name="buildroot" path="buildroot" remote="origin" revision="master" upstream="master"/>
+	<project name="linux" path="linux" remote="origin" revision="master" upstream="master"/>
+</manifest>
