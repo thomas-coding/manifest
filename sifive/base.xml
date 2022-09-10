@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/thomas-coding/" name="origin"/>
+
+	<project name="freedom-e-sdk" path="freedom-e-sdk" remote="origin" revision="master" upstream="master"/>
+	<project name="build" path="build" remote="origin" revision="master" upstream="master"/>
+</manifest>
