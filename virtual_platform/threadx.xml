@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="virtual_platform/base.xml" />
+
+	<project name="threadx" path="threadx" remote="origin" revision="thomas" upstream="thomas"/>
+</manifest>
