@@ -2,5 +2,5 @@
 <manifest>
 	<include name="virtual_platform/base.xml" />
 
-	<project name="threadx_platform" path="threadx_platform" remote="origin" revision="main" upstream="main"/>
+	<project name="azure" path="azure" remote="origin" revision="main" upstream="main"/>
 </manifest>
