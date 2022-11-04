@@ -4,4 +4,5 @@
 
 	<project name="azure" path="azure" remote="origin" revision="main" upstream="main"/>
 	<project name="mbedtls" path="mbedtls" remote="origin" revision="development" upstream="development"/>
+	<project name="tinycrypt" path="tinycrypt" remote="origin" revision="master" upstream="master"/>
 </manifest>
