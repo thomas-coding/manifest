@@ -3,4 +3,5 @@
 	<include name="virtual_platform/base.xml" />
 
 	<project name="azure" path="azure" remote="origin" revision="main" upstream="main"/>
+	<project name="mbedtls" path="mbedtls" remote="origin" revision="development" upstream="development"/>
 </manifest>
