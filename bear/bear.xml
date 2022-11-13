@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="bear/base.xml" />
+
+	<project name="bear" path="bear" remote="origin" revision="master" upstream="master"/>
+</manifest>
