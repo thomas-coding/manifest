@@ -2,5 +2,5 @@
 <manifest>
 	<include name="renesas/base.xml" />
 
-	<project name="peak" path="peak" remote="gitlab" revision="renesas_ra4m3" upstream="renesas_ra4m3"/>
+	<project name="peaks" path="peaks" remote="github" revision="ra4m3" upstream="ra4m3"/>
 </manifest>
