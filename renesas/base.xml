@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/thomas-coding/" name="github"/>
+	<remote fetch="https://gitlab.com/thomas-coding/" name="gitlab"/>
+
+	<project name="build" path="build" remote="github" revision="master" upstream="master"/>
+	<project name="openocd" path="openocd" remote="github" revision="renesas_ra4m3" upstream="renesas_ra4m3"/>
+</manifest>
