@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="bear/bear.xml" />
+
+	<project name="mbedtls" path="mbedtls" remote="origin" revision="bear" upstream="bear"/>
+</manifest>
