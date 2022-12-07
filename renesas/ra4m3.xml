@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<include name="renesas/base.xml" />
+
+	<project name="peaks" path="peaks" remote="github" revision="ra4m3" upstream="ra4m3"/>
+</manifest>
