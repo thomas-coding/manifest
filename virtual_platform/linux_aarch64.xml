@@ -4,6 +4,6 @@
 
 	<project name="arm-trusted-firmware" path="arm-trusted-firmware" remote="origin" revision="thomas_v2.8.0" upstream="thomas_v2.8.0"/>
 	<project name="u-boot" path="u-boot" remote="origin" revision="thomas_v2022.10" upstream="thomas_v2022.10"/>
-	<project name="buildroot" path="buildroot" remote="origin" revision="thomas_v2022.10" upstream="thomas_v2022.10"/>
+	<project name="buildroot" path="buildroot" remote="origin" revision="thomas_2022.11" upstream="thomas_2022.11"/>
 	<project name="linux" path="linux" remote="origin" revision="thomas_v6.1" upstream="thomas_v6.1"/>
 </manifest>
