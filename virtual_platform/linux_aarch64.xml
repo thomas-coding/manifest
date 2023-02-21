@@ -7,8 +7,9 @@
 	<project name="buildroot" path="buildroot" remote="origin" revision="thomas_2022.11" upstream="thomas_2022.11"/>
 	<project name="linux" path="linux" remote="origin" revision="thomas_v6.1" upstream="thomas_v6.1"/>
 	<project name="optee_os" path="optee/optee_os" remote="origin" revision="thomas_3.19.0" upstream="thomas_3.19.0"/>
-	<project name="optee_client" path="optee/optee_client" remote="origin" revision="thomas_3.19.0" upstream="thomas_3.19.0"/>
+	<project name="optee_client" path="optee/optee_client" remote="origin" revision="thomas_3.18.0" upstream="thomas_3.18.0"/>
 	<project name="optee_test" path="optee/optee_test" remote="origin" revision="thomas_3.19.0" upstream="thomas_3.19.0"/>
 	<project name="optee_examples" path="optee/optee_examples" remote="origin" revision="thomas_3.19.0" upstream="thomas_3.19.0"/>
+	<project name="build-optee" path="optee/build" remote="origin" revision="master" upstream="master"/>
 	<project name="mbedtls" path="third_party/mbedtls" remote="origin" revision="refs/tags/mbedtls-2.28.1"/>
 </manifest>
